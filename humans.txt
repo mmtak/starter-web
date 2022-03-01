@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mario Takeda mmtakeda@yahoo.com.br
 
 # THANKS
 
-    <name>
+    All my students.
 
 # TECHNOLOGY COLOPHON
 
