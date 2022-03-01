@@ -20,5 +20,4 @@ oafoajoiafoifaoifaufafaufauoas
 
 ## Copyright
 
-ondnfofnfoanfofnnffafafnffofnfof
-sfafafsoafnaffnofsdf
+All rights reserved.
